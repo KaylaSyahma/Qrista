@@ -1,0 +1,5 @@
+# STEP 
+- masukin library mobile_scanner [flutter pub add mobile_scanner]
+- masukin library permission_handle [flutter pub add permission_handle]
+- masukin library camera
+-  masukin library pretty [flutter pub add pretty_qr_code]
